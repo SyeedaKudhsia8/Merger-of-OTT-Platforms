@@ -1,70 +1,87 @@
-# Merger-of-OTT-Platforms
+# 🎬 Merger of OTT Platforms
 
-🔍 Insight:
-Tier 1 favors Thriller & Action. Tier 2 leans toward Family Drama & Romance.
+Welcome to the **Merger of OTT Platforms** project – a deep-dive analysis exploring user behavior, content preferences, and strategic recommendations post the hypothetical merger of leading OTT platforms in India.
 
-### 🔁 1. **Inactive Users**
-#### **Recommendation**:  
-➡️ Re-engage **users in Tier 2 and Tier 3 cities** on **Free or Basic plans** using personalized incentives (discounts, free trials, or curated content suggestions).
+---
 
-#### **Why?**  
-These users show lower engagement and higher churn risks.
-Data suggests many **inactive users are in lower-tier cities** with **lower-priced plans**.
-Offering **localized promotions**, regional language content, or limited-time **premium access** can drive them back to the platform.
+## 🧠 Project Insight
 
+**What happens when platforms merge?**  
+This project uncovers how viewing patterns, pricing preferences, and regional behaviors shift when two or more OTT giants combine forces.
 
+From binge-watchers in Tier 1 cities to casual viewers in Tier 3 towns — we analyze them all to help platforms:
 
-### 📢 2. **Brand Campaigns**
-#### **Recommendation**:  
-➡️ Focus brand campaigns on **loyal users (age group 25–34)** on **Premium/VIP plans** from **Tier 1 cities**.
+- Improve engagement 📈  
+- Reduce churn 🔁  
+- Tailor marketing efforts 🎯  
+- Optimize pricing 💰  
+- Leverage AI-powered personalization 🤖  
 
-#### **Why?**  
-This segment shows **high engagement and revenue contribution**.
-They are most likely to be **brand advocates**, sharing content and experiences.
-Tailored messaging (cinematic experience, early access) can enhance loyalty and encourage referrals.
+---
 
+## 🔍 Problem Statement
 
+**How can a newly merged OTT platform retain and grow its user base across diverse Indian geographies and demographics?**
 
-### 💸 3. **Pricing Strategy**
-#### **Recommendation**:  
-➡️ **Maintain current Premium pricing** to protect revenue. Offer **free trials, bundles, or family packs** to encourage **Basic users to upgrade**.
+---
 
-#### **Why?**  
-Premium users generate the **highest revenue** and are less price-sensitive.
-Basic users need a **value proposition** to move up: multi-device support, exclusive content, ad-free experience.
-Test **tiered promotions** (e.g., ₹1 first month for Premium) to find optimal conversion funnels.
+## 📊 Dataset Used
 
+📁 `Jotstar_db.sql`  
+Contains mock user data including:
 
+- City tier (Tier 1, 2, 3)  
+- Subscription plan (Free, Basic, Premium, VIP)  
+- Age group  
+- Viewing history & content genre preferences  
+- Engagement metrics (watch time, login frequency)
+---
 
-### 📶 4. **Telecom Partnerships**
-#### **Recommendation**:  
-➡️ Collaborate with **telecom or ISP providers** in **Tier 2/3 cities** to offer bundled streaming access with recharge plans or broadband.
+## 🧬 Tech Stack
 
-#### **Why?**  
-Increases reach in **price-sensitive markets** without direct acquisition costs.
-Users in these cities are **data-cost sensitive**—bundles provide seamless access.
-Proven strategy by players like **Jio & Disney+ Hotstar** to scale rapidly.
+- SQL (PostgreSQL / MySQL)
+- Python (for data analysis & visualization)
+- Pandas, NumPy, Matplotlib, Seaborn
+- Jupyter Notebooks
+- GitHub for version control
 
+---
 
+## 🚀 How to Use
 
-### 🤖 5. **AI-Driven Personalization**
-#### **Recommendation**:  
-➡️ Use viewing data (e.g., preferred genres like **Action, Drama, Romance**) to deliver **hyper-personalized homepages**, recommendations, and marketing.
+1. Clone the repo  
+   `git clone https://github.com/SyeedaKudhsia8/Merger-of-OTT-Platforms.git`
 
-#### **Why?**  
-Personalized content boosts **watch time** and **retention**.
-AI can also segment users into personas (e.g., binge-watchers, family viewers).
-Predictive algorithms can recommend **upgrade plans or niche content** (e.g., “Since you liked Mirzapur, you’ll love XYZ”).
+2. Import the SQL file into your local DB  
+   `mysql -u root -p < Jotstar_db.sql`
 
+3. Run notebooks to explore user data and insights
 
+4. Customize queries or strategies for your use case
 
-### 🌟 6. **Brand Ambassador Strategy**
-#### **Recommendation**:  
-➡️ Choose a **diverse, pan-India celebrity** (e.g., someone like **Alia Bhatt, Allu Arjun, or Ayushmann Khurrana**) who resonates with **Tier 1–3 users** and aligns with top genres (Drama, Romance, Action).
+---
 
-#### **Why?**  
-Increases **emotional connection** across age, gender, and region.
-Should reflect platform’s **inclusive, high-quality entertainment** identity.
-Use ambassador in **multi-language, multi-format campaigns** (digital + TV).
+## 🤝 Contributing
 
+Contributions are welcome! Feel free to:
+
+- Report bugs 🐞  
+- Suggest features 💡  
+- Improve documentation 📚  
+- Add more datasets or regions 🌐  
+
+Fork it, clone it, and submit a pull request 🚀
+
+---
+
+## 📜 License
+
+MIT License – use it, modify it, share it 💙
+
+---
+
+## 💬 Let's Connect!
+
+Built with ❤️ by **Syeeda Kudhsia**  
+For feedback, ideas, or collaborations — feel free to reach out via GitHub or LinkedIn!
 
