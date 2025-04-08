@@ -114,7 +114,7 @@ The analysis involves:
 
 ## 🧬 Tech Stack
 
-- SQL (PostgreSQL / MySQL)
+- SQL (MySQL)
 - Python (for data analysis & visualization)
 - Pandas, NumPy, Matplotlib, Seaborn
 - Jupyter Notebooks
